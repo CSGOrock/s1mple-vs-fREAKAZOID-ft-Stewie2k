@@ -8,6 +8,7 @@ Reddit kept deleting my transcripts, so I put it here. The more it does so the b
 
 Follow me: https://twitter.com/CSGOrock
 
+
 ## Original sources:
 
  - [`tarik`'s stream starting at *03:20:00*](http://www.twitch.tv/tarik_tv/v/47000596)
@@ -26,7 +27,7 @@ From `tarik`'s stream:
     (chat) s1mple: yes!
     (chat) ptr: Keepo
 
-`fREAKAZOID` joins teamspeak *of game he is not part of* (apparently using `Stewie2k`'s PC):
+`fREAKAZOID` joins teamspeak *of a game he is not part of* (apparently using `Stewie2k`'s PC):
 
     (voice) fREAKAZOID: Shut up s1mple, you fucking suck!
     (voice) s1mple: Who is talking? OMG
