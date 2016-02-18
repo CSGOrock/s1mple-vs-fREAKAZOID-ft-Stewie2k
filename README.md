@@ -215,9 +215,9 @@ he is talking with `Stewie2k` and tries to impersonate `Stewie2k`:
 Now, when talking about *baiting* it actully bites `s1mple` for the first time:
 
     (voice) fREAKAZOID: You are the best player on every other team,
-    (voice) fREAKAZOID: just because you bait kills.
+    (voice) fREAKAZOID: just because you steal kills.
 
-    (voice) s1mple: No I'm not.. [??]
+    (voice) s1mple: No I'm not stel.. [??]
     (voice) s1mple: In every team I was open-killer or I was lurker, or AWP player.
     (voice) s1mple: If you don't know anything about me, so STFU.
     (voice) s1mple: Because... when you play at LAN, try to talk with me, 0.5 K/D ratio.
@@ -365,6 +365,12 @@ Links to different sources:
  - [m0e's stream oddshot](http://oddshot.tv/shot/m0e-tv-20160218113941834)
  - [`tarik`'s stream starting at *03:20:00*](http://www.twitch.tv/tarik_tv/v/47000596)
  - [`s1mple`'s stream](http://www.twitch.tv/s1mpleof/v/47062925), which he started specifically to record this conversation.
+ - [Peter on this situation](https://gyazo.com/ceefd668681dbac0fcc05d14e444669a) he deleted his [tweets](https://twitter.com/NRG_ptr/status/700387651585609728) apparently
+ - [Fallen playing a white knight](https://twitter.com/LG_FalleN/status/700378456861777920)
+ - [Fallen calls Hiko fat](https://www.reddit.com/r/GlobalOffensive/comments/3tde1p/thats_a_funny_ass_lg_video_if_you_understand/)
+ - [summit on Fallen](https://twitter.com/summit1g/status/700378868079661056)
+ - [HLTV on Fallen](http://www.hltv.org/forum/1044268-fallen)
+ 
  
  
  
