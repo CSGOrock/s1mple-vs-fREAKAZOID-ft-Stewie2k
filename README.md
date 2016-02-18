@@ -8,7 +8,7 @@ Reddit kept deleting my transcripts, so I put it here. The more it does so the b
 
 Follow me: https://twitter.com/CSGOrock
 
-## Origina sources:
+## Original sources:
 
  - [`tarik`'s stream starting at *03:20:00*](http://www.twitch.tv/tarik_tv/v/47000596)
  - [`s1mple`'s stream](http://www.twitch.tv/s1mpleof/v/47062925), which he started specifically to record this conversation.
@@ -81,7 +81,7 @@ is `Stewie2k` that told him to STFU:
     (voice) SileNt: That's what you answer..
     (voice) fREAKAZOID: You're such a baiter, dude.
 
-Here you can see again `s1mple` thinks he is talking to `fREAKAZOID`:
+Here you can see again `s1mple` thinks he is talking to `Stewie2k`:
 
     (voice) s1mple: Stewie, please STFU. Seriously.
 
@@ -110,8 +110,7 @@ After the unsuccessful avenue of attack, he tries a little different one:
     (voice) s1mple: How long have you been in this team? hehe
     (voice) s1mple: Better answer on this question.
 
-Here `fREAKAZOID` does not understand that `s1mple` actually thinks he is talking with `Stewie2k` and
-asks the same question back:
+Here it could be that `fREAKAZOID` does not understand that `s1mple` actually thinks he is talking with `Stewie2k`:
 
     (voice) fREAKAZOID: How long have you been on Liquid?
 
@@ -255,7 +254,8 @@ He still does not understand that it is actully `fREAKAZOID` bullying him, he th
     (voice) s1mple: Stewie, what are you talking about?
     (voice) fREAKAZOID: Hey, have a nice day.
     (voice) s1mple: Thank you.
-    (voice) fREAKAZOID: You should have jump [??]...  some kills. I would appreciate that, bro.
+    (voice) fREAKAZOID: You should have jump [??]...
+    (voice) fREAKAZOID: ... some kills. I would appreciate that, bro.
     (voice) s1mple: OK, thank you.
     
 Now that `s1mple` sees that his stream started recording, he asks the fake `Stewie2k` *"What you want?"*
@@ -320,7 +320,8 @@ Explains his *Twitch* viewers what is happening:
     (voice) s1mple: So, Stewie just come on this teamspeak and start talking shit.
     (voice) s1mple: I'm just like, man I don't want to talking with you.
     (voice) s1mple: I'm like. What are you talking about? STFU. Everyone hates you.
-    (voice) s1mple: Because I can just start [??] and you will not say anything, I will just record every word what you say.
+    (voice) s1mple: Because I can just start [??] and you will not say anything,
+    (voice) s1mple: I will just record every word what you say.
 
 `s1mple` goes to check Twitch chat and *HLTV* for what really happened:
 
