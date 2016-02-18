@@ -330,3 +330,11 @@ Explains his *Twitch* viewers what is happening:
     (voice) s1mple: Aghhh, it was fREAKAZOID, OK, then nevermind.
 
 Stops his stream.
+
+## Discussion
+
+Interesting how `fREAKAZOID` accused `s1mple` when he actually was *No. 1* entry fragger in the world in 2015.
+And is currently at the top of the ranking for January 2015: 
+
+![Entry kills](http://i.imgur.com/05yQKCW.png)
+
