@@ -1,5 +1,8 @@
 # s1mple vs fREAKAZOID feat. Stewie2k
 
+![s1mple vs fREAKAZOID feat. Stewie2k](./freakazoid.png)
+
+
 Below is a transcript of `s1mple` vs `fREAKAZOID` drama.
 
 ## Reddit
@@ -370,6 +373,8 @@ Links to different sources:
  - [Fallen calls Hiko fat](https://www.reddit.com/r/GlobalOffensive/comments/3tde1p/thats_a_funny_ass_lg_video_if_you_understand/)
  - [summit on Fallen](https://twitter.com/summit1g/status/700378868079661056)
  - [HLTV on Fallen](http://www.hltv.org/forum/1044268-fallen)
+ - [meathead](http://www.hltv.org/forum/1043837-freakazoids-new-name)
+ - [Shahzeb Khan](https://twitter.com/OpTic_ShahZaM/status/700372946112491520)
  
  
  
