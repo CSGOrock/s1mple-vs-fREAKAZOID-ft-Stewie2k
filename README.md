@@ -337,10 +337,13 @@ Stops his stream.
 It would be interesting to know if `fREAKAZOID` actually knew that `tarik` was streaming. At some point `tarik` says
 that he is closing his stream, so at least that could have given a hint to `fREAKAZOID` that `tarik` was streaming.
 He could have know that `tarik` was streaming all along, however, then why would he stop the conversation exactly
-after `s1mple` start streaming.
+after `s1mple` started streaming.
 
 Another interesting point to understand is whether `fREAKAZOID` knew that `s1mple` thought he is talking with
 `Stewie2k` this whole conversation.
+
+Also, other players in the team speak knew full well that it was `fREAKAZOID` speaking but nobody told that `s1mple`.
+Instead, they proceeded in making fun of that.
 
 Interesting how `fREAKAZOID` accused `s1mple` when he actually was *No. 1* entry fragger in the world in 2015.
 And is currently at the top of the ranking for January 2015: 
