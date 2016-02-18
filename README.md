@@ -337,7 +337,9 @@ Stops his stream.
 It would be interesting to know if `fREAKAZOID` actually knew that `tarik` was streaming. At some point `tarik` says
 that he is closing his stream, so at least that could have given a hint to `fREAKAZOID` that `tarik` was streaming.
 He could have know that `tarik` was streaming all along, however, then why would he stop the conversation exactly
-after `s1mple` started streaming.
+after `s1mple` started streaming. `m0e` [joined that team speak](http://oddshot.tv/shot/m0e-tv-20160218113941834) as well 
+although he was playing a different match, this implies that *pros* knew there was a fight on that channel, and they just 
+tuned in to listen.
 
 Another interesting point to understand is whether `fREAKAZOID` knew that `s1mple` thought he is talking with
 `Stewie2k` this whole conversation.
