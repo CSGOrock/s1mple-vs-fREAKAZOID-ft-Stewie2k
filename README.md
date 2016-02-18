@@ -1,4 +1,4 @@
-# s1mple vs fREAKAZOID feat. Stewie2k
+# s1mple vs fREAKAZOID ft. Stewie2k
 
 ![s1mple vs fREAKAZOID feat. Stewie2k](./freakazoid.png)
 
@@ -70,7 +70,7 @@ Here `s1mple` may have thought it was `SileNt`, not `fREAKAZOID`, who started in
     
     (voice) s1mple: Man, do you have a HLTV picture, photo, I don't know. Haha.
 
-Implying SileNt doesn't have a HLTV profile.
+Implying SileNt doesn't have an HLTV profile.
 
     (voice) SileNt: OMG!
     (voice) [help]: I don't know dude.
@@ -118,7 +118,7 @@ Here it could be that `fREAKAZOID` does not understand that `s1mple` actually th
 
     (voice) fREAKAZOID: How long have you been on Liquid?
 
-`s1mple` had enough and start firing back:
+`s1mple` had enough and start firing back at `Stewie2k`:
 
     (voice) s1mple: How its good when everyone hates you? On Reddit, everywhere.
     (voice) s1mple: How its good when you are pushing in smoke and [??] in smoke when you are...
@@ -169,7 +169,8 @@ Now some strange insult from `fREAKAZOID` and he follows with implying that `s1m
 
     (voice) fREAKAZOID: You rush for kills and still die?!
     (voice) s1mple: OK, what, stop talking to me, please.
-    (voice) s1mple: Don't want to talk with you. Hey, seriously. Seriously.
+    (voice) s1mple: Don't want to talk with you. Hey, seriously.
+    (voice) s1mple: Seriously!
     (voice) fREAKAZOID: Hey seriously, dude, its time for a tan. [implying s1mple needs a tan]
 
 Again, `tarik` probably thinks guys went too far:
@@ -239,7 +240,7 @@ his stream after the match.
     (voice) tarik: Everyone go to sleep, I hope everyone enjoyed.
     (voice) tarik: And I see you next time. Thank you, again.
     
-Just like `TACO` last wee, `fREAKAZOID` thinks `s1mple` is mad:
+Just like `TACO` last week, `fREAKAZOID` thinks `s1mple` is mad:
     
     (voice) fREAKAZOID: Yeah, I think you are mad dude.
     (voice) fREAKAZOID: Yeah, you go drink .. a protein shake.
@@ -288,12 +289,12 @@ Other guys understand that `s1mple` thinks he is talking with `Stewie2k` and are
     (voice) s1mple: Agh, hahah, he gonna be more mad, if I say it one more time.   
     (voice) s1mple: I just open my stream, maybe that's why he is calm down.
     
-`tarik` finally ends his very long process of shitting down his stream.
+`tarik` finally ends his very long process of shutting down his stream.
     
     (voice) tarik: See you later, have a good night.
     (voice) s1mple: See you, yeah.
 
-`coL. Dephh` (is it him) continues to make fun of `s1mple`:
+`coL. Dephh` (is it him?) continues to make fun of `s1mple`:
     
     (voice) s1mple: Stewie, can you say something more for Reddit or HLTV?
     (voice) coL. Dephh: You're crazy man, why would Stewie talk to you like that?
@@ -327,7 +328,7 @@ Explains his *Twitch* viewers what is happening:
     (voice) s1mple: Because I can just start [??] and you will not say anything,
     (voice) s1mple: I will just record every word what you say.
 
-`s1mple` goes to check Twitch chat and *HLTV* for what really happened:
+`s1mple` goes to check Twitch chat and *HLTV* check what really happened:
 
     (voice) s1mple: Who it was Stewie or fREAKAZOID? Who?
     (voice) s1mple: OMG, guys, just record this.
@@ -375,6 +376,7 @@ Links to different sources:
  - [HLTV on Fallen](http://www.hltv.org/forum/1044268-fallen)
  - [meathead](http://www.hltv.org/forum/1043837-freakazoids-new-name)
  - [Shahzeb Khan](https://twitter.com/OpTic_ShahZaM/status/700372946112491520)
+ - [Cloud9 statement](https://twitter.com/C9stunna/status/700368711031480320)
  
  
  
