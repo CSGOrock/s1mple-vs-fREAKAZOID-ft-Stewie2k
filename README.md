@@ -350,3 +350,19 @@ And is currently at the top of the ranking for January 2015:
 
 ![Entry kills](http://i.imgur.com/05yQKCW.png)
 
+
+## Links
+
+Links to different sources:
+ - [lurpis: early tweet](https://twitter.com/OG_Danrulio/status/700292028161089536)
+ - [lurpis on Anti-byllying initiative](https://twitter.com/lurppis_/status/700292432932532224)
+ - [Anti-cyber bullying initiative that `fREAKAZOID` is part of](http://www.bit-tech.net/news/bits/2016/01/08/intel-hack-harassment/1)
+ - [Reddit: main thread](https://www.reddit.com/r/GlobalOffensive/comments/46e7lr/freakazoid_bullying_simple/)
+ - [Reddit: support s1mple](https://www.reddit.com/r/GlobalOffensive/comments/46ee2c/na_isnt_welcoming_s1mple_like_they_should_be_lets/)
+ - [Reddit: transcript](https://www.reddit.com/r/GlobalOffensive/comments/46g4gm/s1mple_vs_freakazoid_feat_stewie2k_transcript/)
+ - [m0e's stream oddshot](http://oddshot.tv/shot/m0e-tv-20160218113941834)
+ - [`tarik`'s stream starting at *03:20:00*](http://www.twitch.tv/tarik_tv/v/47000596)
+ - [`s1mple`'s stream](http://www.twitch.tv/s1mpleof/v/47062925), which he started specifically to record this conversation.
+ 
+ 
+ 
