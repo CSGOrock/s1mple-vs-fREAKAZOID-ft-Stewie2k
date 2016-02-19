@@ -5,21 +5,14 @@
 
 Below is a transcript of `s1mple` vs `fREAKAZOID` drama.
 
-## Reddit
-
-Reddit kept deleting my transcripts, so I put it here. The more it does so the better the transcript ;)
-
-Follow me: https://twitter.com/CSGOrock
-
-
 ## Original sources:
 
- - [`tarik`'s stream starting at *03:20:00*](http://www.twitch.tv/tarik_tv/v/47000596)
+ - [`tarik`'s stream](http://www.twitch.tv/tarik_tv/v/47000596) starting at *03:20:00*
  - [`s1mple`'s stream](http://www.twitch.tv/s1mpleof/v/47062925), which he started specifically to record this conversation.
 
 ## Transcript
 
-Below is a transcript with some annotations to present the context better.
+Below is a transcript with some annotations to present the context.
 
 From `tarik`'s stream:
 
@@ -38,7 +31,7 @@ From `tarik`'s stream:
     (voice) s1mple: top100 player in NA? Is it you? ... Hey?
     (voice) s1mple: Peter, who is talking to me?
 
-`s1mple` thinks he is talking to `Stewie2k`, judging by the "top100 player" remark.
+`s1mple` thinks he is talking to `Stewie2k`, judging by the *"top100 player"* remark.
 
     (voice) coL. Dephh: One pushed mid, 3hp, I had bomb for some reason. He is right there.
     (voice) fREAKAZOID: s1mple, why do you aim at the ground when you run around?
@@ -76,11 +69,10 @@ Implying SileNt doesn't have an HLTV profile.
     (voice) [help]: I don't know dude.
     (voice) [help]: I don't even know what is going on.
 
-`fREAKAZOID` starts talking again and `s1mple` incorrectly realizes that it was actually who he thinks
-is `Stewie2k` that told him to STFU:
+`fREAKAZOID` starts talking again and `s1mple` realizes that it wasn't `SileNt` but what he thinks is `Stewie2k`, who tries to be toxic:
 
     (voice) fREAKAZOID: s1mple, why you're such a noob, dude?
-    (voice) s1mple: Why? (meaning: why are you asking me?)
+    (voice) s1mple: Why? [meaning: why are you asking me?]
     (voice) tarik: Hihihi
     (voice) SileNt: That's what you answer..
     (voice) fREAKAZOID: You're such a baiter, dude.
@@ -118,7 +110,7 @@ Here it could be that `fREAKAZOID` does not understand that `s1mple` actually th
 
     (voice) fREAKAZOID: How long have you been on Liquid?
 
-`s1mple` had enough and start firing back at `Stewie2k`:
+`s1mple` had enough and starts firing back at `Stewie2k`:
 
     (voice) s1mple: How its good when everyone hates you? On Reddit, everywhere.
     (voice) s1mple: How its good when you are pushing in smoke and [??] in smoke when you are...
@@ -131,7 +123,7 @@ Here it could be that `fREAKAZOID` does not understand that `s1mple` actually th
     
 `fREAKAZOID` continues with insults:    
 
-    (voice) fREAKAZOID: You don't you have real life friends, do you?
+    (voice) fREAKAZOID: You don't have real life friends, do you?
     (voice) s1mple: Yeah, I have [???] fiends as well.
     (voice) fREAKAZOID: [???] Hit the soft spot, dude.
     (voice) SileNt: HAHAhhaha
@@ -144,7 +136,7 @@ Now a typical *'cya lan'* insult:
 
 `tarik` thinks `fREAKAZOID` went a bit far:
 
-    (voice) tarik: WTF?! (smile)
+    (voice) tarik: WTF?! [smile]
 
 `s1mple` shooting back at the fake `Stewie2k`, by the *"Everyone hates you"* quote you can see he still
  thinks he is talking to `Stewie2k`:
@@ -186,14 +178,14 @@ Again, `tarik` probably thinks guys went too far:
     (voice) s1mple: So please, don't talk with me.
     (voice) s1mple: Or you try talking when a north... [get's interrupted]
     
-`fREAKAZOID` tries to impersonate `s1mple` in his voice:
+`fREAKAZOID` impersonates `s1mple` in his voice:
     
     (voice) fREAKAZOID: Hey, stop losing rounds.
     (voice) fREAKAZOID: Dude, you keep talking to me.
     (voice) fREAKAZOID: Shut up!! You suuuck!
     (voice) SileNt: Hahahahheehe....
 
-Then `fREAKAZOID` goes on with stupid insults, considering `s1mple` is way more skilled player:
+Then `fREAKAZOID` goes on with stupid insults, considering `s1mple` is a way more skilled player:
 
     (voice) fREAKAZOID: You aim at the ground, you run around.
     (voice) fREAKAZOID: It's so bad, you need to tan and get some [...]
@@ -248,7 +240,7 @@ Just like `TACO` last week, `fREAKAZOID` thinks `s1mple` is mad:
 
     (voice) tarik: Have a good day. (smile)
 
-Here `tarik` is still slowly turning off his stream, but `s1mple` has started his stream
+Here `tarik` is still slowly turning off his stream, but `s1mple` has started his own
 specifically to record this conversation:
 
     (voice) fREAKAZOID: It's OK to hate your life. It's alright, man.
@@ -273,7 +265,7 @@ to put it on record.
     (voice) s1mple: What you talking about?
     (voice) s1mple: Can you just leave this room? Seriously.
     
-And gets interrupted, by the other guys. Exactly at this moment `fREAKAZOID` stops the conversation
+And gets interrupted, by the other guys. Exactly at this moment `fREAKAZOID` stops the conversation,
 probably he saw that `s1mple` started streaming or was told by the other guys.
 
 Other guys understand that `s1mple` thinks he is talking with `Stewie2k` and are making fun:
@@ -282,7 +274,7 @@ Other guys understand that `s1mple` thinks he is talking with `Stewie2k` and are
     (voice) SileNt: Stewie so toxic, man.
     (voice) s1mple: Stewie, please leave this room.
     (voice) SileNt: s1mple, you think Stewie the worst player on Cloud9?
-    (voice) s1mple: Yes. (pause)
+    (voice) s1mple: Yes. [pause]
     
 `s1mple` thinks that the *fake* `Stewie2k` is still in team speak:    
     
@@ -329,7 +321,7 @@ Explains his *Twitch* viewers what is happening:
     (voice) s1mple: Because I can just start [??] and you will not say anything,
     (voice) s1mple: I will just record every word what you say.
 
-`s1mple` goes to check Twitch chat and *HLTV* check what really happened:
+`s1mple` goes to check Twitch chat and *HLTV* for what really happened:
 
     (voice) s1mple: Who it was Stewie or fREAKAZOID? Who?
     (voice) s1mple: OMG, guys, just record this.
@@ -349,11 +341,9 @@ tuned in to listen.
 Another interesting point to understand is whether `fREAKAZOID` knew that `s1mple` thought he is talking with
 `Stewie2k` this whole conversation.
 
-Also, other players in the team speak knew full well that it was `fREAKAZOID` speaking but nobody told that `s1mple`.
-Instead, they proceeded in making fun of that.
+Also, other players in the team speak knew full well that it was `fREAKAZOID` speaking but nobody told that to `s1mple`. Instead, they proceeded in making fun of that.
 
-Interesting how `fREAKAZOID` accused `s1mple` when he actually was *No. 1* entry fragger in the world in 2015.
-And is currently at the top of the ranking for January 2015: 
+Interesting how `fREAKAZOID` accused `s1mple` of baiting when he actually was *No. 1* entry fragger in the world in 2015 by HLTV. And is currently at the top of the ranking for January 2015: 
 
 ![Entry kills](http://i.imgur.com/05yQKCW.png)
 
@@ -379,6 +369,10 @@ Links to different sources:
  - [Shahzeb Khan](https://twitter.com/OpTic_ShahZaM/status/700372946112491520)
  - [Cloud9 statement](https://twitter.com/C9stunna/status/700368711031480320)
  
- 
+## Reddit
+
+Reddit keeps deleting this transcript from `/r/GlobalOffensive`, *Cloud9* lobby is too strong.
+
+Follow me: https://twitter.com/CSGOrock 
  
  
