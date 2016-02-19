@@ -278,10 +278,10 @@ probably he saw that `s1mple` started streaming or was told by the other guys.
 
 Other guys understand that `s1mple` thinks he is talking with `Stewie2k` and are making fun:
 
-    (voice) coL. Dephh: Bro, Stewie, calm the fuck down, bro.
-    (voice) coL. Dephh: Stewie so toxic, man.
+    (voice) tarik: Bro, Stewie, calm the fuck down, bro.
+    (voice) SileNt: Stewie so toxic, man.
     (voice) s1mple: Stewie, please leave this room.
-    (voice) coL. Dephh: s1mple, you think Stewie the worst player on Cloud9?
+    (voice) SileNt: s1mple, you think Stewie the worst player on Cloud9?
     (voice) s1mple: Yes. (pause)
     
 `s1mple` thinks that the *fake* `Stewie2k` is still in team speak:    
@@ -294,12 +294,12 @@ Other guys understand that `s1mple` thinks he is talking with `Stewie2k` and are
     (voice) tarik: See you later, have a good night.
     (voice) s1mple: See you, yeah.
 
-`coL. Dephh` (is it him?) continues to make fun of `s1mple`:
+`SileNt` and `n0thing` continue to make fun of `s1mple`:
     
     (voice) s1mple: Stewie, can you say something more for Reddit or HLTV?
-    (voice) coL. Dephh: You're crazy man, why would Stewie talk to you like that?
+    (voice) SileNt: You're crazy man, why would Stewie talk to you like that?
     (voice) s1mple: I don't know.
-    (voice) coL. Dephh: What did you do to Stewie?
+    (voice) SileNt: What did you do to Stewie?
     (voice) s1mple: Maybe because I delete him from Steam?
     (voice) s1mple: Yeah, OMG. Sorry, Stewie! If you want, you can add me again.
 
@@ -313,7 +313,7 @@ Other guys understand that `s1mple` thinks he is talking with `Stewie2k` and are
         
     (voice) s1mple: Silent, are you here?
     (voice) n0thing (on stewie's PC): Yo, my teammate is AFK, what's up dude?
-    (voice) SileNt: Stewie ... shut up dude.
+    (voice) SileNt: That's Stewie ... shut up dude.
     (voice) s1mple: n0thing, how are you?
     (voice) SileNt: Stewie's had enough of you.
     (voice) s1mple: n0thing, how are you?
