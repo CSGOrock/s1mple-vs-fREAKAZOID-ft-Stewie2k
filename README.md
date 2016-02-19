@@ -33,7 +33,7 @@ From `tarik`'s stream:
 
 `s1mple` thinks he is talking to `Stewie2k`, judging by the *"top100 player"* remark.
 
-    (voice) coL. Dephh: One pushed mid, 3hp, I had bomb for some reason. He is right there.
+    (voice) ptr: One pushed mid, 3hp, I had bomb for some reason. He is right there.
     (voice) fREAKAZOID: s1mple, why do you aim at the ground when you run around?
 
 Then some in-game callouts:
@@ -343,14 +343,14 @@ Another interesting point to understand is whether `fREAKAZOID` knew that `s1mpl
 
 Also, other players in the team speak knew full well that it was `fREAKAZOID` speaking but nobody told that to `s1mple`. Instead, they proceeded in making fun of that.
 
-Interesting how `fREAKAZOID` accused `s1mple` of baiting when he actually was *No. 1* entry fragger in the world in 2015 by HLTV. And is currently at the top of the ranking for January 2015: 
+Interesting how `fREAKAZOID` accused `s1mple` of baiting when he actually was *No. 1* entry fragger in the world in 2015 by HLTV. And is currently at the top of the ranking for January 2015:
 
 ![Entry kills](http://i.imgur.com/05yQKCW.png)
-
 
 ## Links
 
 Links to different sources:
+ - [Infographic](https://twitter.com/CSGOrock/status/700697664266985473) and the [image](http://imgur.com/3e0zILA)
  - [lurpis: early tweet](https://twitter.com/OG_Danrulio/status/700292028161089536)
  - [lurpis on Anti-byllying initiative](https://twitter.com/lurppis_/status/700292432932532224)
  - [Anti-cyber bullying initiative that `fREAKAZOID` is part of](http://www.bit-tech.net/news/bits/2016/01/08/intel-hack-harassment/1)
@@ -368,6 +368,8 @@ Links to different sources:
  - [meathead](http://www.hltv.org/forum/1043837-freakazoids-new-name)
  - [Shahzeb Khan](https://twitter.com/OpTic_ShahZaM/status/700372946112491520)
  - [Cloud9 statement](https://twitter.com/C9stunna/status/700368711031480320)
+ - [Liquid statement](http://www.teamliquidpro.com/news/2016/02/19/official-response-c9-freakazoid)
+ - fREAKAZOID added to [NA FPL soundboard](http://zorkz.ovh/nafpl/soundboard/)
  
 ## Reddit
 
