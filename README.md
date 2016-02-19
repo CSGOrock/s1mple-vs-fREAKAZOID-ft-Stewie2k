@@ -294,7 +294,7 @@ Other guys understand that `s1mple` thinks he is talking with `Stewie2k` and are
     (voice) tarik: See you later, have a good night.
     (voice) s1mple: See you, yeah.
 
-`SileNt` and `n0thing` continue to make fun of `s1mple`:
+`SileNt` continues to make fun of `s1mple`:
     
     (voice) s1mple: Stewie, can you say something more for Reddit or HLTV?
     (voice) SileNt: You're crazy man, why would Stewie talk to you like that?
