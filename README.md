@@ -45,11 +45,11 @@ From `tarik`'s stream:
 
 Then some in-game callouts:
 
-    (voice) coL. Dephh: 4hp
-    (voice) coL. Dephh: 4hp at top left..
-    (voice) s1mple: one connection
-    (voice) coL. Dephh: NOOOoooo, ... [inaudible]
-    (voice) coL. Dephh: 4hp
+    (voice) ptr: One pushed mid, 3hp, I had bomb for some reason. He is right there.
+    (voice) tarik: 4hp
+    (voice) ptr: 4hp at top left..
+    (voice) SileNt: NOOOoooo, ... [inaudible]
+    (voice) ptr: 4hp
     (voice) [help]: go dude, he's in my head
     (voice) [help]: he's in my head right now, dude
 
@@ -310,15 +310,16 @@ Other guys understand that `s1mple` thinks he is talking with `Stewie2k` and are
     (voice) s1mple: because he is sooo toxic.
     (voice) s1mple: Stewie, hello!
     (voice) s1mple: OMG
+        
     (voice) s1mple: Silent, are you here?
-    (voice) SileNt: Yo, my teammate in AFK, what's up dude?
-    (voice) coL. Dephh: That's Stewie ... shut up dude.
-    (voice) s1mple: How are you?
-    (voice) coL. Dephh: Stewie's had enough of you.
-    (voice) s1mple: No, Silent, how are you?
-    (voice) SileNt: Just fucking chilling.
+    (voice) n0thing (on stewie's PC): Yo, my teammate is AFK, what's up dude?
+    (voice) SileNt: Stewie ... shut up dude.
+    (voice) s1mple: n0thing, how are you?
+    (voice) SileNt: Stewie's had enough of you.
+    (voice) s1mple: n0thing, how are you?
+    (voice) n0thing (on stewie's PC): Just fucking chilling.
     (voice) s1mple: hahaha
-    (voice) SileNt: Just TV shows.
+    (voice) n0thing (on stewie's PC): Watching TV shows.
 
 Explains his *Twitch* viewers what is happening:
 
